@@ -1,4 +1,4 @@
-# AgentSwarm: Multithreaded Agentic AI in Java
+# Multithreaded Agentic AI in Java
 
 ![Java](https://img.shields.io/badge/Java-21%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AI Framework](https://img.shields.io/badge/Framework-LangChain4j-007396?style=for-the-badge)
