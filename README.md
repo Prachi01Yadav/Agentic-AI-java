@@ -1,4 +1,4 @@
-# Multithreaded Agentic AI
+# AgentSwarm: Multithreaded Agentic AI in Java
 
 ![Java](https://img.shields.io/badge/Java-21%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AI Framework](https://img.shields.io/badge/Framework-LangChain4j-007396?style=for-the-badge)
@@ -6,7 +6,7 @@
 
 Welcome to **AgentSwarm**! This project is a practical masterclass in combining two of the most powerful paradigms in software engineering: **Advanced Java Concurrency** and **Agentic Artificial Intelligence**.
 
-## Project Goals:
+## Project Goals
 Unlike standard AI wrapper apps, this system is designed to handle high-throughput, I/O-bound AI tasks efficiently. We are building a system where multiple autonomous AI agents run concurrently, share data safely, and collaborate without crashing or blocking the main thread.
 
 You will learn real-world big tech patterns (used at Amazon, Google, and Fintechs) applied to modern AI development.
