@@ -22,7 +22,6 @@
     <!-- Properties                                                    -->
     <!-- ============================================================= -->
     <properties>
-        <!-- Java 21+ as specified in the README -->
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -104,7 +103,6 @@
                 <version>3.5.2</version>
             </plugin>
 
-            <!-- Maven Exec Plugin - convenient for running main classes -->
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
